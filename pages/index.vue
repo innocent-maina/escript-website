@@ -1,34 +1,31 @@
-<template>
-    <div>     
-        <SectionsDemo1Section1 />
-        <SectionsDemo1Section2 />
-        <SectionsDemo1Section3 />
-        <SectionsDemo1Section4 />
-        <SectionsDemo1Section5 />
-        <SectionsDemo1Section6 />
-        <SectionsDemo1Section7 />
-        <SectionsDemo1Section8 />
-        <SectionsDemo1Section9 />
-        <SectionsDemo1Section10 />
-        <SectionsDemo1Section10 />
-        <SectionsDemo1Section11 />
-        <SectionsDemo1Section12 />
-        <SectionsDemo1Section13 />
-        <SectionsDemo1Section14 />
-        <SectionsDemo1Section15 />
-        <SectionsDemo1Section16 />
-        <SectionsDemo1Section17 />
-        <SectionsDemo1Section18 />
-        <SectionsDemo1Section19 />
-        <SectionsDemo1Section20 />
-        <SectionsDemo1Section21 />
-    </div>
-</template>
-
-<script setup>
+<script setup lang="ts">
     useHead({
         bodyAttrs: {
-            class: "navbar-light"
+            class: "navbar-dark navbar-dark-2 scheme-blue"
         },
     })
 </script>
+
+<template>
+    <div>
+        <SectionsDemo18Section1 />
+        <SectionsDemo18Section2 />
+        <SectionsDemo18Section3 />
+        <SectionsDemo18Section4 />
+        <SectionsDemo18Section5 />
+        <SectionsDemo18Section6 />
+        <SectionsDemo18Section7 />
+        <SectionsDemo18Section8 />
+        <SectionsDemo18Section9 />
+        <SectionsDemo18Section10 />
+        <SectionsDemo18Section11 />
+        <SectionsDemo18Section12 />
+        <SectionsDemo18Section13 />
+        <SectionsDemo18Section14 />
+        <SectionsDemo18Section15 />
+        <SectionsDemo18Section16 />
+        <SectionsDemo18Section17 />
+        <SectionsDemo18Section18 />
+        <SectionsDemo18Section19 />
+    </div>
+</template>
