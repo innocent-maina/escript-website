@@ -8,7 +8,7 @@
                         <!-- Section ID -->
                         <span class="section-id">Real-time Analytics</span>
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Discover insights across all your data with Martex</h2>
+                        <h2 class="s-50 w-700">Discover insights across all your data with Escript</h2>
                         <!-- Text -->
                         <p class="s-21">Ligula risus auctor tempus magna feugiat lacinia.</p>
                     </div>

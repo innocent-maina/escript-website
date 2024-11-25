@@ -6,7 +6,7 @@
                 <div class="col-md-6">
                     <div class="hero-10-txt wow fadeInRight">
                         <!-- Title -->
-                        <h2 class="s-52 w-700">Keep your files safe with Martex</h2>
+                        <h2 class="s-52 w-700">Keep your files safe with Escript</h2>
                         <!-- Text -->
                         <h4 class="s-28 color--grey">Your content is secure and stays private anywhere, anytime</h4>
                         <!-- Buttons -->

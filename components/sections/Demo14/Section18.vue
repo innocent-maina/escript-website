@@ -21,7 +21,7 @@
                             <!-- QUESTION #1 -->
                             <div class="question mb-35 wow fadeInUp">
                                 <!-- Question -->
-                                <h5 class="s-22 w-700"><span>1.</span> Getting started with Martex</h5>
+                                <h5 class="s-22 w-700"><span>1.</span> Getting started with Escript</h5>
                                 <!-- Answer -->
                                 <p class="color--grey">Etiam amet mauris suscipit in odio integer congue metus and vitae arcu mollis blandit ultrice ligula egestas magna suscipit lectus magna suscipit luctus blandit and laoreet</p>
                             </div>
@@ -55,7 +55,7 @@
                             <!-- QUESTION #4 -->
                             <div class="question mb-35 wow fadeInUp">
                                 <!-- Question -->
-                                <h5 class="s-22 w-700"><span>4.</span> How does Martex handle my privacy?</h5>
+                                <h5 class="s-22 w-700"><span>4.</span> How does Escript handle my privacy?</h5>
                                 <!-- Answer -->
                                 <p class="color--grey">Quaerat sodales sapien euismod blandit purus a purus ipsum primis in cubilia laoreet augue luctus dolor luctus</p>
                                 <!-- Answer -->

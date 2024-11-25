@@ -5,7 +5,7 @@
                 <div class="col-lg-11 col-xl-10">
                     <div class="inner-page-title">
                         <h2 class="s-52 w-700">Questions & Answers</h2>
-                        <p class="p-lg">Some common questions we get about Martex</p>
+                        <p class="p-lg">Some common questions we get about Escript</p>
                     </div>
                     <div class="accordion-wrapper">
                         <ul>
@@ -14,7 +14,7 @@
                                 <div class="accordion-panel-item mb-35">
                                     <!-- Question -->
                                     <div class="faqs-2-question">
-                                        <h5 class="s-22 w-700"><span>1.</span> What is Martex and how does it work?</h5>
+                                        <h5 class="s-22 w-700"><span>1.</span> What is Escript and how does it work?</h5>
                                     </div>
                                     <!-- Answer -->
                                     <div class="faqs-2-answer color--grey">
@@ -42,7 +42,7 @@
                                 <div class="accordion-panel-item mb-35">
                                     <!-- Question -->
                                     <div class="faqs-2-question">
-                                        <h5 class="s-22 w-700"><span>3.</span> Which languages does Martex support?</h5>
+                                        <h5 class="s-22 w-700"><span>3.</span> Which languages does Escript support?</h5>
                                     </div>
                                     <!-- Answer -->
                                     <div class="faqs-2-answer color--grey">
@@ -163,7 +163,7 @@
                                 <div class="accordion-panel-item mb-35">
                                     <!-- Question -->
                                     <div class="faqs-2-question">
-                                        <h5 class="s-22 w-700"><span>1.</span> How much does Martex cost?</h5>
+                                        <h5 class="s-22 w-700"><span>1.</span> How much does Escript cost?</h5>
                                     </div>
                                     <!-- Answer -->
                                     <div class="faqs-2-answer color--grey">
@@ -211,7 +211,7 @@
                                 <div class="accordion-panel-item">
                                     <!-- Question -->
                                     <div class="faqs-2-question">
-                                        <h5 class="s-22 w-700"><span>4.</span> I can't activate Martex</h5>
+                                        <h5 class="s-22 w-700"><span>4.</span> I can't activate Escript</h5>
                                     </div>
                                     <!-- Answer -->
                                     <div class="faqs-2-answer color--grey">

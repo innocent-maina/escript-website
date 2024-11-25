@@ -13,12 +13,12 @@
                                     <img class="img-fluid" src="/assets/images/logo-white.png" alt="logo-image" />
                                     <!-- Title -->
                                     <h2 class="s-42 w-700">Welcome</h2>
-                                    <h2 class="s-42 w-700">back to Martex</h2>
+                                    <h2 class="s-42 w-700">back to Escript</h2>
                                     <!-- Text -->
                                     <p class="p-md mt-25">Integer congue sagittis and velna augue egestas magna suscipit purus aliquam</p>
                                     <!-- Copyright -->
                                     <div class="register-page-copyright">
-                                        <p class="p-sm">&copy; 2024 Martex. <span>All Rights Reserved</span></p>
+                                        <p class="p-sm">&copy; 2024 Escript. <span>All Rights Reserved</span></p>
                                     </div>
                                 </div>
                             </div>

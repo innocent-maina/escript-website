@@ -9,7 +9,7 @@
                         <div class="col">
                             <div class="banner-3-txt color--white">
                                 <!-- Title -->
-                                <h2 class="s-48 w-700">Starting with Martex is easy, fast and free</h2>
+                                <h2 class="s-48 w-700">Starting with Escript is easy, fast and free</h2>
                                 <!-- Text -->
                                 <p class="p-xl">It only takes a few clicks to get started</p>
                                 <!-- Button -->

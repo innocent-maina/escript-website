@@ -65,7 +65,7 @@
                             <!-- Post Meta -->
                             <div class="blog-post-meta mt-20">
                                 <ul class="post-meta-list ico-10">
-                                    <li><p class="p-sm w-500">By Martex Team</p></li>
+                                    <li><p class="p-sm w-500">By Escript Team</p></li>
                                     <li class="meta-list-divider">
                                         <p><span class="flaticon-minus"></span></p>
                                     </li>
@@ -90,7 +90,7 @@
                             <span class="post-tag color--purple-400">Freelancer Tips</span>
                             <!-- Post Link -->
                             <h6 class="s-20 w-700">
-                                <NuxtLink tp="/single-post">Cubilia laoreet augue egestas and Martex magna impedit</NuxtLink>
+                                <NuxtLink tp="/single-post">Cubilia laoreet augue egestas and Escript magna impedit</NuxtLink>
                             </h6>
                             <!-- Text -->
                             <p>Luctus vitae egestas augue and ipsum ultrice quisque in cursus lacus feugiat egets congue ultrice sagittis laoreet</p>

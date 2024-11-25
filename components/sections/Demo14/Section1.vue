@@ -6,7 +6,7 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="hero-14-txt color--white wow fadeInUp">
                         <!-- Title -->
-                        <h2 class="s-60 w-700">Automate your way to success with Martex</h2>
+                        <h2 class="s-60 w-700">Automate your way to success with Escript</h2>
                         <!-- Text -->
                         <p class="s-21">Mauris donec ociis diam magnis sapien sagittis sapien tempor volute gravida and aliquet tortor undo aliquet in quaerat tortor</p>
                         <!-- HERO QUICK FORM -->

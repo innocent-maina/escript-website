@@ -17,14 +17,14 @@
                             <span class="post-tag color--blue-400">Social Media Marketing</span>
                             <!-- Post Link -->
                             <h3 class="s-38 w-700">
-                                <NuxtLink to="/single-post">Congue magna tempor and ipsum Martex sapien turpis laoreet augue </NuxtLink>
+                                <NuxtLink to="/single-post">Congue magna tempor and ipsum Escript sapien turpis laoreet augue </NuxtLink>
                             </h3>
                             <!-- Text -->
                             <p>Aliqum mullam blandit vitae and tempor sapien and donec lipsum gravida porta undo velna dolor libero a risus aliquet tempus posuere a tempor velna tempus posuere dolor</p>
                             <!-- Post Meta -->
                             <div class="blog-post-meta mt-30">
                                 <ul class="post-meta-list ico-10">
-                                    <li><p class="w-500">By Martex Team</p></li>
+                                    <li><p class="w-500">By Escript Team</p></li>
                                     <li class="meta-list-divider">
                                         <p><span class="flaticon-minus"></span></p>
                                     </li>
@@ -61,7 +61,7 @@
                                 <!-- Post Meta -->
                                 <div class="blog-post-meta mt-20">
                                     <ul class="post-meta-list ico-10">
-                                        <li><p class="p-sm w-500">By Martex Team</p></li>
+                                        <li><p class="p-sm w-500">By Escript Team</p></li>
                                         <li class="meta-list-divider">
                                             <p><span class="flaticon-minus"></span></p>
                                         </li>
@@ -118,7 +118,7 @@
                                 <span class="post-tag color--violet-400">Freelancer Tips</span>
                                 <!-- Post Link -->
                                 <h6 class="s-20 w-700">
-                                    <NuxtLink to="/single-post">Cubilia laoreet ipsum augue eget egestas Martex magna</NuxtLink>
+                                    <NuxtLink to="/single-post">Cubilia laoreet ipsum augue eget egestas Escript magna</NuxtLink>
                                 </h6>
                                 <!-- Text -->
                                 <p>Luctus vitae egestas augue and ipsum ultrice quisque in cursus lacus feugiat egets congue ultrice sagittis laoreet</p>
@@ -203,7 +203,7 @@
                                 <!-- Post Meta -->
                                 <div class="blog-post-meta mt-20">
                                     <ul class="post-meta-list ico-10">
-                                        <li><p class="p-sm w-500">By Martex Team</p></li>
+                                        <li><p class="p-sm w-500">By Escript Team</p></li>
                                         <li class="meta-list-divider">
                                             <p><span class="flaticon-minus"></span></p>
                                         </li>
@@ -235,7 +235,7 @@
                                 <!-- Post Meta -->
                                 <div class="blog-post-meta mt-20">
                                     <ul class="post-meta-list ico-10">
-                                        <li><p class="p-sm w-500">By Martex Team</p></li>
+                                        <li><p class="p-sm w-500">By Escript Team</p></li>
                                         <li class="meta-list-divider">
                                             <p><span class="flaticon-minus"></span></p>
                                         </li>
@@ -265,14 +265,14 @@
                                         <span class="post-tag color--pink-400">Video Tutorials</span>
                                         <!-- Post Link -->
                                         <h4 class="s-34 w-700 mb-20">
-                                            <NuxtLink to="/single-post">Lipsum sodales sapien Martex aliquet blandit augue gravida posuere </NuxtLink>
+                                            <NuxtLink to="/single-post">Lipsum sodales sapien Escript aliquet blandit augue gravida posuere </NuxtLink>
                                         </h4>
                                         <!-- Text -->
                                         <p>Aliqum mullam blandit vitae and tempor sapien and donec lipsum gravida porta undo velna dolor libero risus aliquet tempus posuere vitae tempor</p>
                                         <!-- Post Meta -->
                                         <div class="blog-post-meta mt-30">
                                             <ul class="post-meta-list ico-10">
-                                                <li><p class="w-500">By Martex Team</p></li>
+                                                <li><p class="w-500">By Escript Team</p></li>
                                                 <li class="meta-list-divider">
                                                     <p><span class="flaticon-minus"></span></p>
                                                 </li>
@@ -330,7 +330,7 @@
                                 <!-- Post Meta -->
                                 <div class="blog-post-meta mt-20">
                                     <ul class="post-meta-list ico-10">
-                                        <li><p class="p-sm w-500">By Martex Team</p></li>
+                                        <li><p class="p-sm w-500">By Escript Team</p></li>
                                         <li class="meta-list-divider">
                                             <p><span class="flaticon-minus"></span></p>
                                         </li>

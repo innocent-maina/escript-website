@@ -13,7 +13,7 @@
                         <!-- Text -->
                         <p>Integer congue sagittis augue egestas <a href="#" class="color--theme">Global Privacy Policy</a> nec suscipit egestas magna undo aliquam ipsum vitae purus justo lacus ligula ipsum primis cubilia donec undo augue luctus vitae egestas a molestie donec libero <NuxtLink to="/privacy" class="color--theme">Privacy Policy</NuxtLink> tempor undo quisque fusce a cursus neque diam augue fusce sapien nulla a primis lacinia ipsum a molestie blandit and justo an aliquet eget molestie cursus quaerat</p>
                         <!-- Text -->
-                        <p>Sagittis congue augue egestas integer velna purus purus magna nec suscipit and egestas magna aliquam ipsum vitae purus justo lacus ligula ipsum primis cubilia donec undo augue luctus vitae egestas a molestie donec <a href="#" class="color--theme">https://martex.com/software</a> undo quisque fusce cursus neque blandit fusce an aliquam nulla lacinia justo molestie blandit justo diam aliquet tortor non molestie sagittis lacinia</p>
+                        <p>Sagittis congue augue egestas integer velna purus purus magna nec suscipit and egestas magna aliquam ipsum vitae purus justo lacus ligula ipsum primis cubilia donec undo augue luctus vitae egestas a molestie donec <a href="#" class="color--theme">https://Escript.com/software</a> undo quisque fusce cursus neque blandit fusce an aliquam nulla lacinia justo molestie blandit justo diam aliquet tortor non molestie sagittis lacinia</p>
                         <!-- Title -->
                         <h4 class="s-30 w-700"><span>1.</span> What is a Cookie?</h4>
                         <!-- Text -->

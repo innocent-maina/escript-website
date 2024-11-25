@@ -7,7 +7,7 @@
                         <!-- TITLE -->
                         <div class="col-md-12">
                             <div class="register-form-title">
-                                <h3 class="s-32 w-700">Log in to Martex</h3>
+                                <h3 class="s-32 w-700">Log in to Escript</h3>
                                 <p class="p-md">Don't have an account? <NuxtLink to="/signup-1" class="color--theme">Sign up</NuxtLink></p>
                             </div>
                         </div>
