@@ -3,8 +3,8 @@
 useSeoMeta({
   title: 'Privacy Policy',
   ogTitle: 'Privacy Policy',
-  description: 'Read about how we protect your personal information at Dafeena Consultancy.',
-  ogDescription: 'Read about how we protect your personal information at Dafeena Consultancy.',
+  description: 'Read about how we protect your personal information at Escript.',
+  ogDescription: 'Read about how we protect your personal information at Escript.',
 });
 
 useHead({
@@ -18,7 +18,7 @@ const sections = ref([
     id: 1,
     title: "Introduction",
     text: [
-      "Welcome to Dafeena Consultancy. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy outlines the types of data we collect, how we use it, and your rights regarding your personal information.",
+      "Welcome to Escript. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy outlines the types of data we collect, how we use it, and your rights regarding your personal information.",
       "By using our services, you agree to the collection and use of information in accordance with this policy.",
     ],
   },
@@ -181,9 +181,9 @@ const sections = ref([
                 If you have any questions or suggestions about this Terms of
                 Service, do not hesitate to contact us at
                 <a
-                  href="mailto:hello@dafeenaconsultancy.com"
+                  href="mailto:hello@escript.co.ke"
                   class="color--theme"
-                  >hello@dafeenaconsultancy.com</a
+                  >hello@escript.co.ke</a
                 >
               </p>
             </div>
