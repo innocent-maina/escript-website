@@ -1,11 +1,12 @@
 <script setup lang="ts">
+definePageMeta({
+  layout: "pre-launch",
+});
 useSeoMeta({
   title: "Terms & Conditions",
   ogTitle: "Terms & Conditions",
-  description:
-    "Review the terms and conditions of working with Escript.",
-  ogDescription:
-    "Review the terms and conditions of working with Escript.",
+  description: "Review the terms and conditions of working with Escript.",
+  ogDescription: "Review the terms and conditions of working with Escript.",
 });
 
 useHead({
@@ -19,70 +20,74 @@ const sections = ref([
     id: 1,
     title: "Introduction",
     text: [
-      "Welcome to Escript's Career Coaching services. By accessing and using our services, you agree to abide by the terms and conditions outlined in this document. These terms are designed to ensure a smooth and mutually beneficial experience for all our clients.",
-      "Please read these terms carefully before engaging in any career coaching services. If you have any questions, feel free to contact us at any time.",
+      "Welcome to EScript, the digital prescription platform designed to give patients, doctors, pharmacists, and hospitals a seamless healthcare experience. By accessing and using EScript, you agree to abide by the terms and conditions outlined in this document.",
+      "Please read these terms carefully before using our platform. If you have any questions, feel free to contact our support team at any time.",
     ],
   },
   {
     id: 2,
     title: "Services We Provide",
     text: [
-      "Escript offers career coaching services that include resume writing, interview preparation, job search strategies, and career guidance. Our services are tailored to help individuals enhance their professional prospects and achieve career goals.",
-      "Our coaches are professionals with expertise in various industries and will provide personalized guidance to help you succeed in your job search or career development.",
+      "EScript provides a secure, digital platform for managing prescriptions. Our services include prescription tracking, medication reminders, digital medical IDs, and seamless prescription fulfillment between patients, doctors, and pharmacies.",
+      "We aim to empower patients with transparency over their healthcare while streamlining workflows for medical professionals and institutions.",
     ],
   },
   {
     id: 3,
-    title: "Client Responsibilities",
+    title: "User Responsibilities",
     text: [
-      "Clients are responsible for providing accurate, honest, and timely information to ensure the best possible coaching experience. Failure to provide necessary information may limit the effectiveness of the coaching sessions.",
-      "It is expected that clients will actively participate in coaching sessions, complete any assignments or tasks given by the coach, and follow up on recommendations provided.",
+      "Users are responsible for providing accurate and up-to-date personal and medical information to ensure EScript functions effectively.",
+      "Patients must ensure they follow their doctor's prescriptions and recommendations. Misuse of the platform, such as falsifying information, may result in termination of access.",
+      "Healthcare providers and pharmacies are responsible for inputting accurate prescription details to ensure safety and efficiency for all users.",
     ],
   },
   {
     id: 4,
     title: "Confidentiality and Data Privacy",
     text: [
-      "We value your privacy and are committed to protecting your personal information. All personal data shared during coaching sessions will be kept confidential and used only for the purposes of providing our services.",
-      "We will not share your personal information with third parties without your consent, except where required by law.",
+      "At EScript, we prioritize your privacy and security. Your personal and medical information is stored securely and used only for providing the services outlined on our platform.",
+      "We will never share your data with third parties without your consent, except as required by law or for healthcare delivery purposes (e.g., sharing prescriptions with pharmacies).",
     ],
   },
   {
     id: 5,
     title: "Payment and Refund Policy",
     text: [
-      "Our services are offered on a paid basis, with fees specified during the booking process. Payment is due before the start of coaching sessions, and we accept various forms of payment, including credit cards and bank transfers.",
-      "Refunds may be requested within 7 days of booking, provided no coaching sessions have been held. After the session, no refunds will be granted.",
+      "EScript may offer subscription plans or pay-per-use services for healthcare providers, pharmacies, or institutions. Fees and payment details will be communicated clearly during registration.",
+      "Refunds for subscription services may be requested within 7 days of payment, provided no services have been used. After service usage, refunds will not be granted.",
     ],
   },
   {
     id: 6,
     title: "Limitations of Liability",
     text: [
-      "Escript is not liable for any direct or indirect losses arising from the use of our career coaching services. While we aim to provide valuable insights and guidance, clients are ultimately responsible for their career decisions.",
-      "We make no guarantees regarding job placement, career success, or specific outcomes from using our services.",
+      "EScript provides a platform for managing prescriptions and healthcare data but does not replace professional medical advice. Patients should always consult qualified healthcare providers regarding their treatments.",
+      "EScript is not liable for errors in prescriptions provided by healthcare professionals or delays in fulfillment caused by third-party pharmacies.",
+      "While we strive for accuracy and uptime, we cannot guarantee uninterrupted access to our platform due to external factors.",
     ],
   },
   {
     id: 7,
     title: "Termination of Services",
     text: [
-      "Clients may terminate their coaching services at any time by notifying Escript. Any outstanding fees for sessions rendered will be due upon termination.",
-      "Escript reserves the right to terminate services if a client is not following the agreed-upon terms or if inappropriate behavior is displayed during coaching sessions.",
+      "Users may discontinue their use of EScript at any time by deactivating their accounts or contacting support.",
+      "EScript reserves the right to terminate user access if there is misuse, falsification of information, or any behavior that breaches these terms.",
+      "Healthcare providers and institutions are responsible for any outstanding subscription fees upon termination.",
     ],
   },
   {
     id: 8,
     title: "Amendments to Terms",
     text: [
-      "Escript reserves the right to update or amend these terms and conditions at any time. Any changes will be communicated to clients, and continued use of our services will be considered acceptance of the revised terms.",
+      "EScript reserves the right to update or amend these terms and conditions at any time. Any changes will be communicated to users via email or platform notifications.",
+      "Continued use of EScript after updates indicates your acceptance of the revised terms.",
     ],
   },
   {
     id: 9,
     title: "Governing Law",
     text: [
-      "These terms and conditions shall be governed by and construed in accordance with the laws of the jurisdiction in which Escript operates, without regard to its conflict of law provisions.",
+      "These terms and conditions shall be governed by and construed in accordance with the laws of the jurisdiction in which EScript operates, without regard to its conflict of law provisions.",
     ],
   },
 ]);
@@ -138,9 +143,7 @@ const sections = ref([
               <p>
                 If you have any questions or suggestions about this Terms of
                 Service, do not hesitate to contact us at
-                <a
-                  href="mailto:hello@escript.co.ke"
-                  class="color--theme"
+                <a href="mailto:hello@escript.co.ke" class="color--theme"
                   >hello@escript.co.ke</a
                 >
               </p>

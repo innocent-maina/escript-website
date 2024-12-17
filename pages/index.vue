@@ -12,20 +12,19 @@ useHead({
 
 <template>
   <div>
-    <SectionsHomeSection1 />
+    <SectionsHomeHero />
     <SectionsHomeSection2 />
-    <SectionsHomeSection5 />
-    <!-- Everything You need -->
-    <!-- Everything You need -->
+
+    <!-- Complete solution -->
     <SectionsHomeCompleteSolution />
+
+    <!-- Everything You need -->
+    <SectionsHomeForHospitals />
 
     <SectionsHomeSection4 />
 
-    <!-- Everything You need -->
-    <SectionsHomeFamily />
-
-    <!-- Everything You need -->
-    <SectionsHomeForYou />
+    <!-- Privacy -->
+    <SectionsHomePrivacy />
 
     <!-- QA -->
     <SectionsHomeQA />

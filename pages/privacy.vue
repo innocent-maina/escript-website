@@ -1,5 +1,9 @@
 <script setup lang="ts">
 
+definePageMeta({
+  layout: 'pre-launch'
+})
+
 useSeoMeta({
   title: 'Privacy Policy',
   ogTitle: 'Privacy Policy',
@@ -18,8 +22,8 @@ const sections = ref([
     id: 1,
     title: "Introduction",
     text: [
-      "Welcome to Escript. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy outlines the types of data we collect, how we use it, and your rights regarding your personal information.",
-      "By using our services, you agree to the collection and use of information in accordance with this policy.",
+      "Welcome to EScript. Your privacy is important to us, and we are committed to protecting your personal and medical information. This Privacy Policy outlines the types of data we collect, how we use it, and your rights regarding your personal and healthcare-related information.",
+      "By using our platform, you agree to the collection, processing, and use of information in accordance with this policy.",
     ],
   },
   {
@@ -30,28 +34,28 @@ const sections = ref([
         id: "2.1",
         title: "Information You Provide to Us",
         text: [
-          "We collect personal information you provide directly when you:",
-          "Register for an account.",
-          "Fill out forms or surveys.",
-          "Subscribe to our newsletter or services.",
-          "Contact our support team or interact with us.",
+          "We collect personal and medical information you provide directly when you:",
+          "Register for an account as a patient, doctor, pharmacist, or institution.",
+          "Upload medical prescriptions or update your digital medical ID.",
+          "Fill out forms or interact with healthcare providers via EScript.",
+          "Contact our support team or submit inquiries.",
         ],
         listItems: [
-          "Name, email address, and phone number.",
-          "Billing information and payment details (if applicable).",
-          "Content you upload, such as documents or messages.",
-          "Preferences or settings related to your user experience.",
+          "Name, email address, phone number, and date of birth.",
+          "Medical data, including prescriptions, diagnosis notes, and doctor instructions.",
+          "Billing information for any paid services (if applicable).",
+          "Healthcare provider details, such as name, license number, and contact information.",
         ],
       },
       {
         id: "2.2",
         title: "Automatic Data Collection",
         text: [
-          "When you use our services, we may automatically collect certain information:",
+          "When you use our platform, we may automatically collect certain information:",
           "Device Information: Type of device, operating system, and browser used.",
-          "Usage Data: Time spent on pages, features accessed, and user activity.",
-          "IP Address: For identifying location and managing platform security.",
-          "This data is collected using cookies, analytics tools, and other technologies to improve our services and user experience.",
+          "Usage Data: Features accessed, time spent on pages, and user activity logs.",
+          "IP Address: For identifying location, managing platform security, and preventing unauthorized access.",
+          "This data is collected using cookies, analytics tools, and other technologies to enhance platform performance and user experience.",
         ],
       },
     ],
@@ -60,11 +64,12 @@ const sections = ref([
     id: 3,
     title: "Types of Information",
     text: [
-      "We may collect the following types of information:",
-      "Personal Information: Identifiable details such as name, email, phone number, and billing information.",
-      "Non-Personal Information: Aggregated data that cannot identify individuals (e.g., site usage statistics).",
+      "We may collect and process the following types of information:",
+      "Personal Information: Details such as name, email, phone number, and account details.",
+      "Medical Information: Health records, prescriptions, medical IDs, and provider-issued notes.",
+      "Non-Personal Information: Aggregated or anonymized data for platform analytics.",
       "Technical Information: Device and connection details like IP address, browser version, and operating system.",
-      "This information helps us to provide, improve, and customize our services.",
+      "This information allows us to securely provide healthcare services and improve user experiences.",
     ],
   },
   {
@@ -72,45 +77,81 @@ const sections = ref([
     title: "How We Use Personal Information",
     text: ["We use the information collected for the following purposes:"],
     listItems: [
-      "To provide and operate services that meet your needs.",
-      "To improve user experience by analyzing site usage and trends.",
-      "To communicate with you regarding updates, offers, or support.",
-      "To ensure security and fraud prevention on our platform.",
-      "To comply with legal obligations and enforce our policies.",
+      "To securely manage and deliver digital prescriptions and related healthcare services.",
+      "To enable doctors, pharmacists, and patients to share and access medical information efficiently.",
+      "To improve the platform experience by analyzing user trends and usage data.",
+      "To communicate with you regarding prescriptions, reminders, updates, or support.",
+      "To ensure platform security, fraud prevention, and compliance with healthcare laws.",
+      "To comply with legal obligations and regulatory requirements.",
     ],
-
     text: [
-      "We do not sell or share your personal information with third parties unless required by law or with your explicit consent.",
+      "We do not sell or share your personal or medical information with third parties, except where required by law or with your explicit consent for healthcare purposes.",
     ],
   },
   {
     id: 5,
     title: "Your Rights",
     text: [
-      "Under applicable data protection laws (including the GDPR), you have certain rights regarding your personal information, including:",
+      "Under applicable data protection laws (including the GDPR and healthcare privacy regulations), you have certain rights regarding your personal and medical information, including:",
     ],
     listItems: [
-      "The right to access the personal information we hold about you.",
+      "The right to access the personal and medical information we hold about you.",
       "The right to rectify any inaccurate or incomplete information.",
-      "The right to erase your personal data in certain circumstances (also known as the 'right to be forgotten').",
+      "The right to request the deletion of your personal data in certain circumstances (the 'right to be forgotten').",
       "The right to restrict or object to the processing of your personal information.",
-      "The right to data portability, allowing you to request a copy of your data in a commonly used format.",
-      "To exercise any of these rights, please contact us using the details provided in the 'Contact Us' section below.",
+      "The right to receive a copy of your data in a secure, commonly used format (data portability).",
+      "The right to withdraw consent where processing relies on your explicit consent.",
+      "To exercise these rights, please contact us using the details provided in the 'Contact Us' section below.",
     ],
   },
   {
     id: 6,
     title: "Data Retention Policies",
     text: [
-      "We retain your personal information only for as long as necessary to fulfill the purposes for which it was collected, including legal, accounting, or reporting requirements.",
-      "We may also retain and use your information to comply with our legal obligations, resolve disputes, and enforce our agreements.",
-      "The retention period varies depending on the type of data, but in general, we retain your personal data for the following durations:",
-      "Account Information: As long as your account is active.",
-      "Transactional Data: For the duration required by law or contractual obligations.",
-      "Inactive Data: If your account is inactive for a certain period, we may deactivate or delete your data unless required to retain it for legal purposes.",
+      "We retain your personal and medical information only for as long as necessary to fulfill the purposes outlined in this policy, including meeting legal, regulatory, and operational requirements.",
+      "Retention periods vary depending on the type of data:",
+      "Account Information: Retained as long as your account remains active or until requested for deletion.",
+      "Medical Information: Retained securely in compliance with healthcare data retention laws.",
+      "Transactional Data: Retained for accounting and regulatory compliance.",
+      "Inactive Accounts: If your account remains inactive for a certain period, we may delete or anonymize your data, unless retention is required by law.",
+    ],
+  },
+  {
+    id: 7,
+    title: "Data Security",
+    text: [
+      "We take appropriate technical and organizational measures to protect your data against unauthorized access, loss, or misuse. These include encryption, secure data storage, and access controls.",
+      "Despite our best efforts, no method of data transmission or storage is 100% secure. You are responsible for maintaining the confidentiality of your account credentials.",
+    ],
+  },
+  {
+    id: 8,
+    title: "Third-Party Services",
+    text: [
+      "EScript may integrate with third-party services, such as pharmacies, payment providers, or analytics tools. These third parties operate under their own privacy policies, and we encourage you to review them.",
+      "We ensure that any data shared with third-party services is done securely and only as necessary to provide the EScript services.",
+    ],
+  },
+  {
+    id: 9,
+    title: "Updates to This Privacy Policy",
+    text: [
+      "We may update this Privacy Policy periodically to reflect changes in legal requirements or our practices. Updated versions will be communicated via email or platform notifications.",
+      "Continued use of EScript after updates indicates your acceptance of the revised Privacy Policy.",
+    ],
+  },
+  {
+    id: 10,
+    title: "Contact Us",
+    text: [
+      "If you have questions or concerns regarding this Privacy Policy or how your data is handled, please contact us:",
+      "Email: support@escript.com",
+      "Phone: +123-456-7890",
+      "Address: EScript, Healthcare Tower, Main Street, City, ZIP Code.",
     ],
   },
 ]);
+
 </script>
 
 <template>

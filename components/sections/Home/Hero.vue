@@ -1,41 +1,39 @@
 <template>
-  <section id="hero-11" class="bg--scroll hero-section">
-    <div class="container">
-      <div class="row d-flex align-items-center">
+  <section id="hero-27" class="gr--whitesmoke hero-section">
+    <div class="hero-overlay bg--fixed">
+      <div class="container text-center">
         <!-- HERO TEXT -->
-        <div class="col-md-6">
-          <div class="hero-11-txt wow fadeInRight">
-            <!-- Title -->
-            <h2 class="s-60 w-700">A design experience like never before</h2>
-            <!-- Text -->
-            <p class="p-lg">
-              Mauris donec turpis suscipit sapien ociis sagittis sapien tempor a
-              volute ligula and aliquet tortor
-            </p>
-            <!-- Button -->
-            <a href="#banner-3" class="btn r-04 btn--theme hover--tra-black"
-              >Get started for free</a
-            >
-            <p class="p-sm btn-txt ico-15">
-              <span class="flaticon-check"></span> No credit card needed, free
-              14-day trial
-            </p>
+        <div class="row justify-content-center">
+          <div class="col-md-11 col-lg-10">
+            <div class="hero-27-txt wow fadeInUp">
+              <!-- Title -->
+              <h2 class="s-60 w-850">
+                Putting You and Your Family's Healthcare Back Into Your Hands
+              </h2>
+              <!-- Text -->
+              <p class="s-20">
+                Manage prescriptions effortlessly, stay informed about your
+                treatments, and gain full visibility into your healthcare
+                journey—all in one secure, easy-to-use tool.
+              </p>
+              <!-- Buttons -->
+              <div class="btns-group d-flex justify-content-center">
+                <a href="#banner-3" class="btn r-04 btn--theme hover--theme"
+                  >Join the waitlist</a
+                >
+                <!-- <ElementsCustomModalVideo /> -->
+              </div>
+              <!-- Advantages List -->
+              <ul class="advantages ico-15 mt-25 clearfix">
+                <li><p>38 people have joined already</p></li>
+              </ul>
+            </div>
           </div>
         </div>
         <!-- END HERO TEXT -->
-        <!-- HERO IMAGE -->
-        <div class="col-md-6">
-          <div class="hero-11-img text-center wow fadeInLeft">
-            <img
-              class="img-fluid"
-              src="/assets/images/hero-11-img.png"
-              alt="hero-image"
-            />
-          </div>
-        </div>
       </div>
-      <!-- End row -->
+      <!-- End container -->
     </div>
-    <!-- End container -->
+    <!-- End hero-overlay -->
   </section>
 </template>

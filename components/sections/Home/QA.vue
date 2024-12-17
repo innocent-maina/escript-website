@@ -24,49 +24,42 @@
               <div class="question mb-35 wow fadeInUp">
                 <!-- Question -->
                 <h5 class="s-22 w-700">
-                  <span>1.</span> Getting started with Escript
+                  <span>1.</span> What is EScript and how does it help me?
                 </h5>
                 <!-- Answer -->
                 <p class="color--grey">
-                  Etiam amet mauris suscipit in odio integer congue metus and
-                  vitae arcu mollis blandit ultrice ligula egestas magna
-                  suscipit lectus magna suscipit luctus blandit and laoreet
+                  EScript is a digital prescription tool designed to give you
+                  full control over your healthcare. You can track your
+                  prescriptions, understand your medications, and manage refills
+                  effortlessly, all from one secure platform.
                 </p>
               </div>
               <!-- QUESTION #2 -->
               <div class="question mb-35 wow fadeInUp">
                 <!-- Question -->
                 <h5 class="s-22 w-700">
-                  <span>2.</span> What's inside the package?
+                  <span>2.</span> How does EScript benefit my family?
                 </h5>
                 <!-- Answer -->
                 <p class="color--grey">
-                  An enim nullam tempor sapien gravida donec ipsum and enim
-                  porta justo integer at velna vitae auctor integer congue undo
-                  magna laoreet augue pretium purus pretium ligula
+                  With EScript, you can manage prescriptions for your entire
+                  family in one place. Easily track their medications, share
+                  details with caregivers, and stay informed about treatments
+                  and refills.
                 </p>
               </div>
               <!-- QUESTION #3 -->
               <div class="question mb-35 wow fadeInUp">
                 <!-- Question -->
                 <h5 class="s-22 w-700">
-                  <span>3.</span> How do I choose a plan?
+                  <span>3.</span> Is my data secure with EScript?
                 </h5>
-                <!-- Answer -->
-                <ul class="simple-list color--grey">
-                  <li class="list-item">
-                    <p>
-                      Fringilla risus, luctus mauris orci auctor purus ligula
-                      euismod pretium purus pretium rutrum tempor sapien
-                    </p>
-                  </li>
-                  <li class="list-item">
-                    <p>
-                      Nemo ipsam egestas volute undo turpis purus lipsum primis
-                      aliquam sapien quaerat sodales pretium a purus
-                    </p>
-                  </li>
-                </ul>
+                <p class="color--grey">
+                  Absolutely. EScript uses advanced encryption and secure
+                  servers to ensure your medical information is always
+                  protected. You have full control over who can access your
+                  data.
+                </p>
               </div>
             </div>
           </div>
@@ -78,43 +71,41 @@
               <div class="question mb-35 wow fadeInUp">
                 <!-- Question -->
                 <h5 class="s-22 w-700">
-                  <span>4.</span> How does Escript handle my privacy?
+                  <span>4.</span> Can hospitals and pharmacies use EScript?
                 </h5>
                 <!-- Answer -->
                 <p class="color--grey">
-                  Quaerat sodales sapien euismod blandit purus a purus ipsum
-                  primis in cubilia laoreet augue luctus dolor luctus
-                </p>
-                <!-- Answer -->
-                <p class="color--grey">
-                  An enim nullam tempor sapien gravida donec congue metus. Vitae
-                  arcu mollis blandit integer nemo volute velna
+                  Yes. EScript streamlines prescription workflows for hospitals
+                  and pharmacies, reducing errors and improving efficiency. It
+                  also gives patients full visibility into their treatment,
+                  creating a better experience for everyone.
                 </p>
               </div>
               <!-- QUESTION #5 -->
               <div class="question mb-35 wow fadeInUp">
                 <!-- Question -->
                 <h5 class="s-22 w-700">
-                  <span>5.</span> I have an issue with my account
+                  <span>5.</span> Do I need any special software to use EScript?
                 </h5>
                 <!-- Answer -->
                 <p class="color--grey">
-                  Cubilia laoreet augue egestas and luctus donec curabite diam
-                  vitae dapibus libero and quisque gravida donec neque blandit
-                  justo aliquam molestie nunc sapien justo
+                  No. EScript is accessible from any device with an internet
+                  connection—whether it's a computer, tablet, or smartphone.
+                  There’s no need to install additional software.
                 </p>
               </div>
               <!-- QUESTION #6 -->
               <div class="question mb-35 wow fadeInUp">
                 <!-- Question -->
                 <h5 class="s-22 w-700">
-                  <span>6.</span> Can I cancel at anytime?
+                  <span>6.</span> Can I share my prescription details with my
+                  doctor or family?
                 </h5>
                 <!-- Answer -->
                 <p class="color--grey">
-                  An enim nullam tempor sapien gravida donec ipsum and enim
-                  porta justo integer at velna vitae auctor integer congue undo
-                  magna laoreet augue pretium purus pretium ligula
+                  Yes, you can securely share prescription details with your
+                  doctor, pharmacist, or trusted family members. EScript makes
+                  it easy to keep everyone on the same page.
                 </p>
               </div>
             </div>
@@ -131,9 +122,7 @@
             <div class="more-questions-txt bg--white-400 r-100">
               <p class="p-lg">
                 Have any questions?
-                <NuxtLink to="/contacts" class="color--theme"
-                  >Get in Touch</NuxtLink
-                >
+                <a href="mailto:hello@escript.co.ke" class="color--theme"">Get in Touch</a>
               </p>
             </div>
           </div>

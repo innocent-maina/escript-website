@@ -13,22 +13,26 @@
                 <h2 class="s-46 w-700">Keep your data private and safe</h2>
                 <!-- Text -->
                 <p>
-                  Sodales tempor sapien quaerat congue eget ipsum laoreet turpis
-                  neque auctor vitae eros dolor luctus placerat magna ligula
-                  cursus and purus pretium
+                  With advanced security and encrypted access, you remain in
+                  control of your healthcare data.
                 </p>
                 <!-- List -->
                 <ul class="simple-list">
                   <li class="list-item">
                     <p>
-                      Cursus purus suscipit vitae cubilia magnis volute egestas
-                      vitae sapien turpis sodales magna
+                      Full Control: Decide who can see and share your records.
+                    </p>
+                  </li>
+                  <li class="list-item">
+                    <p class="">
+                      Secure Access: Your information is safe and available when
+                      you need it.
                     </p>
                   </li>
                   <li class="list-item">
                     <p class="mb-0">
-                      Tempor sapien quaerat an ipsum laoreet purus and sapien
-                      dolor an ultrice ipsum aliquam congue
+                      Transparency You Can Trust: No hidden processes, no
+                      confusion—just clarity.
                     </p>
                   </li>
                 </ul>

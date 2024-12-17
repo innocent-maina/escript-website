@@ -28,7 +28,7 @@
                 <p><NuxtLink to="/privacy">Privacy Policy</NuxtLink></p>
               </li>
               <li>
-                <p><NuxtLink to="/privacy">Cookies</NuxtLink></p>
+                <p><NuxtLink to="/cookies">Cookies</NuxtLink></p>
               </li>
             </ul>
           </div>
@@ -43,10 +43,15 @@
             </h6>
 
             <!-- Newsletter Form Input -->
-            <form class="newsletter-form">
+            <form
+              action="https://formspree.io/f/xpwzglgl"
+              method="POST"
+              class="newsletter-form"
+            >
               <div class="input-group r-06">
                 <input
                   type="email"
+                  name="email"
                   class="form-control"
                   placeholder="Enter your email address"
                   required

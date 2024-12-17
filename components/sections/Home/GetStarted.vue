@@ -17,6 +17,8 @@
                   And we'd love for you to be there when we do.
                 </p>
                 <form
+                  action="https://formspree.io/f/xpwzglgl"
+                  method="POST"
                   name="quickform"
                   class="quick-form form-shadow form-half mt-35"
                 >

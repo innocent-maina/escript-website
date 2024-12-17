@@ -16,22 +16,30 @@
         <div class="col-md-6 col-lg-5">
           <div class="txt-block color--white right-column wow fadeInLeft">
             <!-- Section ID -->
-            <span class="section-id">End-to-End Easy</span>
+            <span class="section-id">For Hospitals and Pharmacies </span>
             <!-- Title -->
-            <h2 class="s-46 w-700">Share and send files & resources</h2>
+            <h2 class="s-46 w-700">
+              Streamline Prescription Workflows and Enhance Patient Trust
+            </h2>
             <!-- List -->
             <ul class="simple-list">
               <li class="list-item">
                 <p>
-                  Tempor sapien quaerat undo ipsum laoreet purus and sapien
-                  dolor ociis ultrice ipsum aliquam undo congue dolor cursus
-                  congue varius magnis
+                  Efficient Prescription Management: Reduce errors and save time
+                  with seamless digital workflows.
                 </p>
               </li>
               <li class="list-item">
                 <p class="mb-0">
-                  Cursus purus suscipit vitae cubilia magnis diam volute egestas
-                  sapien ultrice auctor
+                  Faster Collaboration: Enhance communication between doctors,
+                  pharmacists, and patients for faster, more accurate
+                  fulfillment.
+                </p>
+              </li>
+              <li class="list-item">
+                <p class="mb-0">
+                  Patient-Centric Care: Empower patients with real-time access
+                  to their prescriptions.
                 </p>
               </li>
             </ul>
