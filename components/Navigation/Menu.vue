@@ -24,21 +24,18 @@
         "
       >
         <ul class="wsmenu-list nav-theme">
-          <!-- SIMPLE NAVIGATION LINK -->
-          <li class="nl-simple" aria-haspopup="true">
+          <!-- <li class="nl-simple" aria-haspopup="true">
             <NuxtLink to="/about" class="h-link">About Us</NuxtLink>
           </li>
-          <!-- SIMPLE NAVIGATION LINK -->
           <li class="nl-simple" aria-haspopup="true">
             <NuxtLink to="/pricing" class="h-link">Pricing</NuxtLink>
           </li>
-          <!-- SIMPLE NAVIGATION LINK -->
           <li class="nl-simple" aria-haspopup="true">
             <NuxtLink to="/faqs" class="h-link">FAQs</NuxtLink>
-          </li>
-          <li class="nl-simple" aria-haspopup="true">
+          </li> -->
+          <!-- <li class="nl-simple" aria-haspopup="true">
             <NuxtLink to="/contact-us" class="h-link">Contact</NuxtLink>
-          </li>
+          </li> -->
         </ul>
       </nav>
       <!-- END MAIN MENU -->
