@@ -9,7 +9,7 @@
                         <div class="col-md-8">
                             <div class="banner-7-txt text-center">
                                 <!-- Title -->
-                                <h2 class="s-50 w-700">Starting with Martex is easy, fast and free</h2>
+                                <h2 class="s-50 w-700">Starting with Escript is easy, fast and free</h2>
                                 <!-- Buttons -->
                                 <div class="btns-group">
                                     <NuxtLink to="/signup-1" class="btn r-04 btn--theme hover--theme">Get srarted - it's free </NuxtLink>

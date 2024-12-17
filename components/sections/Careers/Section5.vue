@@ -6,7 +6,7 @@
                 <div class="col-md-6 order-last order-md-2">
                     <div class="txt-block left-column wow fadeInRight">
                         <!-- Section ID -->
-                        <span class="section-id">Co-founder at Martex</span>
+                        <span class="section-id">Co-founder at Escript</span>
                         <!-- Title -->
                         <h2 class="s-48 w-700">Henry Adams</h2>
                         <!-- Text -->

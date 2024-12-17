@@ -8,7 +8,7 @@
                     </div>
                     <ElementsTabs class="Tab-exp1">
                         <ElementsTab title="Getting Started" class="tab1-test">
-                            <ElementsAccordionItem2 title="What is Martex and how does it work?">
+                            <ElementsAccordionItem2 title="What is Escript and how does it work?">
                                 <p>Sagittis congue augue egestas volutpat egestas magna suscipit egestas magna ipsum vitae purus congue efficitur and ipsum primis in cubilia laoreet augue egestas luctus donec and curabitur dapibus</p>
                             </ElementsAccordionItem2>
                             <ElementsAccordionItem2 title="What's inside the package?">
@@ -22,7 +22,7 @@
                                 <p>Sagittis congue augue egestas volutpat egestas magna suscipit lipsum egestas magna ipsum vitae a purus ipsum congue efficitur ipsum primis in cubilia laoreet augue egestas luctus donec and curabitur</p>
                             </ElementsAccordionItem2>
 
-                            <ElementsAccordionItem2 title="Which languages does Martex support?">
+                            <ElementsAccordionItem2 title="Which languages does Escript support?">
                                 <p>An augue cubilia laoreet and magna suscipit egestas magna ipsum purus ipsum primis undo augue ultrice ligula egestas suscipit lectus gestas integer congue a lectus porta tristique phasellus neque a blandit and tristique justo aliquam justo suscipit congue augue egestas volutpat egestas magna sem congue</p>
                                 <p>An augue cubilia laoreet and magna suscipit egestas magna ipsum purus ipsum primis and augue efficitur ligula egestas suscipit lectus gestas integer congue a lectus porta phasellus neque</p>
                             </ElementsAccordionItem2>
@@ -57,7 +57,7 @@
                         </ElementsTab>
 
                         <ElementsTab title="Pricing Plans">
-                            <h5>How much does Martex cost?</h5>
+                            <h5>How much does Escript cost?</h5>
                             <p>Sagittis congue augue egestas volutpat egestas magna suscipit egestas and magna ipsum vitae Sagittis congue augue egestas volutpat egestas and magna suscipit an egestas magna ipsum vitae purus congue efficitur ipsum primis in cubilia laoreet augue egestas luctus donec and curabitur dapibus</p>
                             <p>Sagittis congue augue egestas volutpat egestas magna suscipit egestas and magna ipsum vitae Sagittis congue augue egestas volutpat egestas and magna suscipit an egestas magna ipsum vitae purus congue efficitur ipsum primis in cubilia laoreet augue egestas luctus donec and curabitur dapibus</p>
                             <p>Sagittis congue augue egestas volutpat egestas magna suscipit egestas and magna ipsum vitae Sagittis congue augue egestas volutpat egestas and magna suscipit an egestas magna ipsum vitae purus congue efficitur ipsum primis in cubilia laoreet augue egestas luctus donec and curabitur dapibus</p>

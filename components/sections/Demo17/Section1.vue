@@ -6,7 +6,7 @@
                 <div class="col-md-11 col-lg-10 col-xl-9">
                     <div class="hero-17-txt wow fadeInUp">
                         <!-- Title -->
-                        <h2 class="s-60 w-700">Enhance your website design with Martex</h2>
+                        <h2 class="s-60 w-700">Enhance your website design with Escript</h2>
                         <!-- Text -->
                         <p class="p-xl">Mauris donec ociis diam magnis sapien sagittis sapien tempor volute gravida aliquet tortor undo aliquet an egestas in magna egestas sapien quaerat</p>
                         <!-- HERO QUICK FORM -->

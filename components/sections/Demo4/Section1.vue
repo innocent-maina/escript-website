@@ -6,7 +6,7 @@
                 <div class="col-md-10 col-lg-9 col-xl-10">
                     <div class="hero-4-txt wow fadeInUp">
                         <!-- Title -->
-                        <h2 class="s-56 w-700">Manage all your content in easy way with Martex</h2>
+                        <h2 class="s-56 w-700">Manage all your content in easy way with Escript</h2>
                         <!-- Buttons -->
                         <div class="btns-group mt-15">
                             <a href="#" class="btn r-04 btn--theme hover--black">Download for MacOS</a>

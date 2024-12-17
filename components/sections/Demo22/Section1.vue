@@ -12,7 +12,7 @@
                         <!-- Title -->
                         <h4 class="s-26 w-700">Achieve success through data-driven decisions</h4>
                         <!-- Text -->
-                        <p class="p-md color--grey">Get started with Martex for free. It's fast and very easy! No credit card needed</p>
+                        <p class="p-md color--grey">Get started with Escript for free. It's fast and very easy! No credit card needed</p>
                         <!-- Form -->
                         <form name="requestForm" class="row request-form">
                             <!-- Form Input -->

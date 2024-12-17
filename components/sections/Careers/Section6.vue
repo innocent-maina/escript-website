@@ -6,7 +6,7 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-52 w-700">Open Roles at Martex</h2>
+                        <h2 class="s-52 w-700">Open Roles at Escript</h2>
                         <!-- Text -->
                         <p class="p-lg">We’re building a better way to work, fueled by transparency, trust, and technology that is a force for positive change for the hourly workforce</p>
                     </div>
