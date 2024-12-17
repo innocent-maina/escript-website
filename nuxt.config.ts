@@ -11,64 +11,61 @@ export default defineNuxtConfig({
       meta: [
         {
           name: "Escript",
-          content:
-            "Career coaching, professional development, resume writing, job search support, career advice",
+          content: "Prescription App | Healthcare Solutions Kenya",
         },
         { charset: "utf-8" },
         { name: "viewport", content: "width=device-width, initial-scale=1" },
         {
           name: "keywords",
           content:
-            "career coaching, resume writing, job search, career advice, professional development, career guidance, job interviews, career transition, job coaching, LinkedIn optimization, career coaching services, resume tips, career growth, interview preparation, career mentorship, job application tips, career path advice, job market trends",
+            "prescription app, healthcare Kenya, digital medical records, e-prescribing platform, online prescription services, pharmacy management, hospital management software, healthcare platform, Kenya health tech, digital prescriptions Kenya, medical ID system, prescription management, doctor software Kenya, pharmacist tools, healthcare software Africa, electronic prescriptions, medication tracking, healthcare digitalization Kenya, health management platform",
         },
         {
           name: "description",
           content:
-            "Escript offers expert career coaching, resume writing, interview preparation, and job search support to help you achieve your professional goals.",
+            "Escript is a leading prescription app and healthcare platform in Kenya, offering e-prescribing, digital medical records, and seamless communication for doctors, pharmacists, and patients.",
         },
         { name: "robots", content: "index, follow" },
         { name: "x-robots", content: "index, follow" },
         {
           property: "og:title",
-          content:
-            "Escript - Career Coaching & Professional Development",
+          content: "Escript - Prescription App & Healthcare Platform Kenya",
         },
         {
           property: "og:description",
           content:
-            "Expert career coaching and resume writing services to help you advance your career. Get personalized job search support, interview coaching, and career advice.",
+            "Escript simplifies healthcare in Kenya with an innovative prescription app, e-prescribing tools, and a secure digital medical records platform for doctors, pharmacists, and patients.",
         },
         { property: "og:type", content: "website" },
         { property: "og:url", content: "https://www.escript.co.ke" },
         {
           property: "og:image",
-          content: "https://www.escript.co.ke/escript.png",
+          content: "https://www.escript.co.ke/images/escript-health.png",
         },
         { property: "og:site_name", content: "Escript" },
         { name: "twitter:card", content: "summary_large_image" },
         {
           name: "twitter:title",
-          content:
-            "Escript - Career Coaching & Professional Development",
+          content: "Escript - Prescription App & Healthcare Solutions Kenya",
         },
         {
           name: "twitter:description",
           content:
-            "Escript offers career coaching, resume writing, and interview preparation to help professionals thrive in their careers.",
+            "Discover Escript, Kenya's leading healthcare platform for e-prescriptions, medical record management, and doctor-patient communication.",
         },
         {
           name: "twitter:image",
-          content: "https://www.escript.co.ke/twitter-image.jpg",
+          content: "https://www.escript.co.ke/images/escript-twitter.jpg",
         },
       ],
-      title: "Escript - Career Coaching & Resume Writing Services",
+      title: "Escript - Prescription App & Healthcare Solutions Kenya",
       script: [],
     },
   },
 
   site: {
     name: "Escript",
-    description: "We are career consultants",
+    description: "Kenya's Leading Prescription App & Healthcare Platform",
     url: "https://escript.co.ke",
     language: "en",
   },

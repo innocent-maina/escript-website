@@ -1,4 +1,11 @@
 <script setup>
+useSeoMeta({
+  title: "Simplify Prescriptions with Kenya's Best Healthcare App",
+  ogTitle: "Simplify Prescriptions with Kenya's Best Healthcare App",
+  description: "Easily manage prescriptions, health records, and care needs.",
+  ogDescription: "Easily manage prescriptions, health records, and care needs.",
+});
+
 definePageMeta({
   layout: "pre-launch",
 });
@@ -12,7 +19,8 @@ useHead({
 
 <template>
   <div>
-    <SectionsHomeHero />
+    <SectionsHomeWahome />
+
     <SectionsHomeSection2 />
 
     <!-- Complete solution -->

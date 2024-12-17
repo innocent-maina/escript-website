@@ -18,9 +18,7 @@
             <!-- Section ID -->
             <span class="section-id">For Hospitals and Pharmacies </span>
             <!-- Title -->
-            <h2 class="s-46 w-700">
-              Streamline Prescription Workflows and Enhance Patient Trust
-            </h2>
+            <h2 class="s-46 w-700">Simpler Workflows and Prescriptions</h2>
             <!-- List -->
             <ul class="simple-list">
               <li class="list-item">
@@ -30,7 +28,7 @@
                 </p>
               </li>
               <li class="list-item">
-                <p class="mb-0">
+                <p class="">
                   Faster Collaboration: Enhance communication between doctors,
                   pharmacists, and patients for faster, more accurate
                   fulfillment.
