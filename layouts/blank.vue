@@ -1,6 +1,6 @@
 <template>
   <div id="page" class="page font--jakarta">
-      <slot />
+    <slot />
   </div>
 </template>
 
