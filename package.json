@@ -1,6 +1,6 @@
 {
-  "name": "martex-nuxtjs-app",
-  "author": "alithemes",
+  "name": "escript",
+  "author": "Innocent Maina",
   "private": true,
   "scripts": {
     "build": "nuxt build",
